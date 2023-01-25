@@ -26,7 +26,7 @@
     p "A #{animal} is fast and striped."
 
 1. What method is used to get input from a user?
-    the 'gets' method
+    the 'gets' or 'gets.chomp' method allows "talk" to a user and allows the user to input their data for you to use.
 
 1. Name and describe two common string methods:
     -string#gsub! This will substitute one section or all of the string with your replacement string. The ! will permentaly change your string.  
